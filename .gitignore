@@ -1,0 +1,2 @@
+# Remove the .ipynb/checkpoints
+.ipynb_checkpoints/*
